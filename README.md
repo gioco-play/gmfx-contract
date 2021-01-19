@@ -1,1 +1,1 @@
-# bole-card interface
+# GMFX interface
