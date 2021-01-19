@@ -1,0 +1,18 @@
+{
+    "name": "gioco-plus/gmfx-contract",
+    "description": "gmfx Interface",
+    "type": "library",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Xuan Yang",
+            "email": "xuan.yang@goldenf.co"
+        }
+    ],
+    "autoload": {
+        "psr-4": {
+            "GiocoPlus\\GMFX\\": "src/"
+        }
+    },
+    "require": {}
+}
